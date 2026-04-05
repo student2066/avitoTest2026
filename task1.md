@@ -1,9 +1,6 @@
-1. <img width="1045" height="551" alt="image" src="https://github.com/user-attachments/assets/fbfe4408-5403-4242-a1e0-7cd74b545784" />
-P3 — низкий.
-2. <img width="1280" height="688" alt="image" src="https://github.com/user-attachments/assets/b79ebb1e-2cef-4343-bb0e-815e869ada10" />
-P2 — средний
-3. <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/e36f946d-39dc-47a6-a1f1-4974efcfe50f" />
-P2 — средний
+1. P3 — низкий. <img width="1045" height="551" alt="image" src="https://github.com/user-attachments/assets/fbfe4408-5403-4242-a1e0-7cd74b545784" />
+2. P2 — средний <img width="1280" height="688" alt="image" src="https://github.com/user-attachments/assets/b79ebb1e-2cef-4343-bb0e-815e869ada10" />
+3. P2 — средний <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/e36f946d-39dc-47a6-a1f1-4974efcfe50f" />
 4. <img width="859" height="465" alt="image" src="https://github.com/user-attachments/assets/b9b4581c-b5b8-453a-858e-ba8326c28294" />
 P2 — средний
 5. <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/4e6b8208-0840-4354-8110-f860d989c587" />
